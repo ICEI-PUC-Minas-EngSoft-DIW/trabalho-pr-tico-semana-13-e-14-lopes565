@@ -1,0 +1,53 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Aventura no Espaço",
+      "genero": "Ficção Científica",
+      "ano": 2023,
+      "nota": 4.5
+    },
+    {
+      "id": 2,
+      "titulo": "O Último Romance",
+      "genero": "Drama",
+      "ano": 2022,
+      "nota": 4.1
+    },
+    {
+      "id": 3,
+      "titulo": "Perseguição na Cidade",
+      "genero": "Ação",
+      "ano": 2024,
+      "nota": 4.8
+    },
+    {
+      "id": 4,
+      "titulo": "Segredos da Cozinha",
+      "genero": "Comédia",
+      "ano": 2023,
+      "nota": 3.9
+    },
+    {
+      "id": 5,
+      "titulo": "O Retorno do Herói",
+      "genero": "Ação",
+      "ano": 2024,
+      "nota": 4.6
+    },
+    {
+      "id": 6,
+      "titulo": "Jornada Intergaláctica",
+      "genero": "Ficção Científica",
+      "ano": 2023,
+      "nota": 4.7
+    }    
+    {
+      "id": 7,
+      "titulo": "Novo Filme de Drama",
+      "genero": "Drama",
+      "ano": 2025,
+      "nota": 4.0
+    }
+  ]
+}
